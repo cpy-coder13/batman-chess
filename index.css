@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --board-dark: #2b2f3a;
+  --board-light: #f2efe7;
+}
